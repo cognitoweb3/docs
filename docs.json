@@ -30,8 +30,8 @@
       }      
     ]},
   "logo": {
-    "light": "/logo/faviconplasmatomb.png",
-    "dark": "/logo/faviconplasmatomb.png"
+    "light": "/pombtransp.png",
+    "dark": "/pombtransp.png"
   },
   "contextual": {
     "options": [
