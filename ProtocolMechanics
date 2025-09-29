@@ -1,0 +1,16 @@
+---
+title: "⚙️ Protocol Mechanics"
+---
+
+## **📈 Expansion**
+
+When the Time-Weighted Average Price (TWAP) of \$POMB is above 1 \$XPL, the protocol mints new \$POMB tokens. These new tokens are distributed to \$SPOMB stakers in the **Boardroom**. This incentivizes holding and staking \$SPOMB, as rewards are tied directly to protocol growth.
+
+## **📉 Contraction**
+
+If the TWAP of \$POMB falls below 1 \$XPL, the protocol halts emissions. No new tokens are minted, supply remains fixed, and market forces work to restore the peg.
+
+### **🪙 Token Roles**
+
+- **\$POMB** – The main algorithmic asset that aims to track \$XPL at a 1:1 ratio.
+- **\$SPOMB** – The share token used for governance and earning expansion rewards in the Boardroom.
