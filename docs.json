@@ -4,85 +4,31 @@
   "name": "Mint Starter Kit",
   "colors": {
     "primary": "#162F29",
-    "light": "#DCEFEA",
+    "light": "#569F8C",
     "dark": "#0A1512"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/faviconplasmatomb.svg",
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Plasma Tomb",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "POMB Finance Docs",
             "pages": [
               "index",
-              "quickstart",
-              "development"
-            ]
-          },
-          {
-            "group": "Customization",
-            "pages": [
-              "essentials/settings",
-              "essentials/navigation"
-            ]
-          },
-          {
-            "group": "Writing content",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
-            ]
-          },
-          {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
+              "Overview",
+              "Protocol Mechanics",
+              "Genesis",
+              "Farms",
+              "Tokenomics",
+              "Risks & Disclaimer",
+              "Quick Start Guide"
             ]
           }
         ]
-      },
-      {
-        "tab": "API reference",
-        "groups": [
-          {
-            "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          }
-        ]
-      }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
-  },
+      }      
+    ]},
   "logo": {
     "light": "/logo/light.svg",
     "dark": "/logo/dark.svg"
