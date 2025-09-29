@@ -18,12 +18,12 @@
             "pages": [
               "index",
               "Overview",
-              "Protocol Mechanics",
+              "ProtocolMechanics",
               "Genesis",
               "Farms",
               "Tokenomics",
-              "Risks & Disclaimer",
-              "Quick Start Guide"
+              "RisksDisclaimer",
+              "QuickStartGuide"
             ]
           }
         ]
